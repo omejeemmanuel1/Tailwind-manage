@@ -1,3 +1,3 @@
 # Tailwing manage
 
-## Made us of Tailwind css
+## Made using of Tailwind css
